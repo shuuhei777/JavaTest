@@ -37,7 +37,7 @@ public class NewMain5 {
         try{
             Statement stmt = con.createStatement();
             //stmt.executeUpdate(sql);
-            for(int j=0;j<5000;j++){
+            for(int j=0;j<500;j++){
             for(int i=0;i<10;i++){
                 //sql = "INSERT INTO T_Sample(COL1,COL2) VALUES('AAA','BBB')" ;
                 
